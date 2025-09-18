@@ -46,7 +46,7 @@ def move_human():
 
     #redo task
         else:
-            print("Field already used, pick another.")
+            print("Field already used or invalid input. Try again.")
 
 def move_computer():
 
